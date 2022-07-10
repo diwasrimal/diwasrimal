@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-- I am Diwas Rimal from Nepal.
+- 🌱 I am Diwas Rimal from Nepal.
 - 🔭 I’m currently learning programming fundamentals.
 - 😄 I find myself interested in computers.
 
