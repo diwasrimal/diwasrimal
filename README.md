@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, 
+- I am Diwas Rimal from Nepal.
+- 🔭 I’m currently learning programming fundamentals.
 
 <!--
 **diwasrimal/diwasrimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
